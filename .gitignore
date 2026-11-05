@@ -1,0 +1,19 @@
+/target/
+*.class
+.mtj.tmp/
+*.jar
+*.war
+*.ear
+*.nar
+*.ear
+
+# IDE specific files
+.settings/
+.project
+.classpath
+.factorypath
+.idea/
+*.iml
+*.iws
+.vscode/
+
